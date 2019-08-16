@@ -26,3 +26,5 @@ New commit 3
 commit in master1
 commit in master2
 commit in branch3
+
+commit in master3
